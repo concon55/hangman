@@ -1,1 +1,3 @@
-# hangman
+# GWC Hangman
+
+Sample solution
